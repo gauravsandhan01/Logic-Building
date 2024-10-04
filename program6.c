@@ -32,6 +32,17 @@
 
 #include<stdio.h>
 
+////////////////////////////////////////////////////////////////////
+// 
+//  Function Name :     Addition
+//  Description :       It is used to perform addition of 2 floats
+//  Input :             Float, Float
+//  Output :            Float
+//  Author :            Gaurav Sandhan
+//  Date :              3/10/2024
+//
+////////////////////////////////////////////////////////////////////
+
 float Addition(float fNo1 ,float fNo2)
 {
     float fAns=0.0;
@@ -39,6 +50,12 @@ float Addition(float fNo1 ,float fNo2)
     return fAns;
 
 }
+
+////////////////////////////////////////////////////////////////////
+// Function name :      main
+// Description :        Its a entry point function
+////////////////////////////////////////////////////////////////////
+
 
 int main()
 {
