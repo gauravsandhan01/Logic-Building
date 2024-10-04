@@ -1,11 +1,12 @@
 # Logic-Building
 
 How to ADD this Folder in Github
-
+<br>
 Step 1:
 open the folder 
 tab ALT+D and type CMD and press enter -> CMD terminal is open 
 
+<br>
 
 Step 2:
 use below command 
@@ -25,7 +26,7 @@ use below command
 
 7) git push origin main
 
-
+<br>
 Step 3: 
 When We add any File the use below command to add that file in Github
 
